@@ -55,7 +55,7 @@
     "lodash": "4.17.21",
     "lunr": "0.5.7",
     "marked": "4.0.10",
-    "moment": "2.10.6",
+    "moment": "2.29.4",
     "moment-timezone": "^0.4.0",
     "morgan": "1.2.0",
     "node-sass": "7.0.0",
