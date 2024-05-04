@@ -58,7 +58,7 @@
     "moment": "2.10.6",
     "moment-timezone": "^0.4.0",
     "morgan": "1.2.0",
-    "node-sass": "3.3.3",
+    "node-sass": "7.0.0",
     "page": "1.6.1",
     "phone": "git+https://github.com/Automattic/node-phone.git#1.0.4-6",
     "photon": "1.0.4",
