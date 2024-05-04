@@ -4,6 +4,6 @@
   "private": true,
   "main": "index.jsx",
   "dependencies": {
-    "react": "0.12.1"
+    "react": "0.14.0"
   }
 }
